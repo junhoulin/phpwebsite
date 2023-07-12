@@ -27,6 +27,6 @@
 * 資料庫資料運用
 * session、post、php、html、css、mysql
 
-![GITHUB]( https://drive.google.com/file/d/1NFx6wYZfl0cpK4GrtvPSEEGuowab8xPy/view?usp=sharing "登入畫面")
-![GITHUB]( https://drive.google.com/file/d/1YLvqniDXVfZ4Oc6JN8tZ_frIGgQczs3H/view?usp=sharing "系統畫面")
+![登入畫面]( https://plum-romantic-goldfish-871.mypinata.cloud/ipfs/QmccbLaVsJG3bhFVfh8gEEgUqE6UBuHSLZhUZ7b76WJKyi?_gl=1*1kar73p*_ga*MTAzMTAxODAyMy4xNjg5MTQyNDU0*_ga_5RMPXG14TE*MTY4OTE0MjQ1NC4xLjEuMTY4OTE0MjU3Ni4yNC4wLjA. "登入畫面")
+![系統畫面]( https://plum-romantic-goldfish-871.mypinata.cloud/ipfs/Qme2arCbL72fmuZW7SiNXZGHiq2s2qoGGyoAyn8ZUyfQZV?_gl=1*1cip0fj*_ga*MTAzMTAxODAyMy4xNjg5MTQyNDU0*_ga_5RMPXG14TE*MTY4OTE0MjQ1NC4xLjEuMTY4OTE0MjU3Ni4yNC4wLjA. "系統畫面")
 
