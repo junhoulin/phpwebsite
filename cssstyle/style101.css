@@ -1,0 +1,86 @@
+/* 初始化 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300&display=swap');
+*{
+    font-size: 100%;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+body{
+    font-family:'Noto Sans TC', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+img{
+    max-width: 100%;
+
+}
+
+
+/* 頭頂列 */
+.header{
+    height: 100px;
+    position: relative;
+    left: 50%;
+    transform: translate( -50%);
+    
+}
+.headlogo{
+    width: 610px;
+    position: absolute; 
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/* 左邊列*/
+.logo{
+    width: 210px;
+}
+.sidemenu{
+    background-image: linear-gradient(0deg, #64a8e9, #c4e3f7);
+    height: 100vh;
+    text-align: center;
+    padding-top: 10px;
+    box-shadow: 10px 0px 10px rgba(101, 179, 243, 0.3);
+}
+
+.sidemenu nav{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+}
+
+.sidemenu nav a{
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    color: rgb(20, 69, 228);
+    font-weight: 600;
+}
+
+.sidemenu nav a .fa-solid{
+    margin-right: -1em;
+    transform: scale(0);
+    transition: .3s;
+}
+.sidemenu nav a:hover .fa-solid{
+    margin-right: 0em;
+    transform: scale(1);
+}
+.sidemenu nav a:hover{
+    font-size: 19px;
+    color: #1487f3;
+}
+
+/* 表單*/
+
+.table101{
+    margin-top: 20px;
+}
+
+.inputtable{
+   margin-top: 50px;
+   width: 100%;
+}
