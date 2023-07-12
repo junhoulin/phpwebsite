@@ -5,7 +5,8 @@
 * 設定放在Localhost:85
 * 將前端網站放進wWW資料夾中
 * 使用php將網站連結mysql資料庫
-```
+
+```php
 <?php
   $host = 'localhost';
   $port = '85';
@@ -22,4 +23,6 @@
 ```
 
 ## 功能亮點
-* 
+* 登入系統
+* 資料庫資料運用
+* session、post、php、html、css、mysql
