@@ -26,3 +26,7 @@
 * 登入系統
 * 資料庫資料運用
 * session、post、php、html、css、mysql
+
+![GITHUB]( https://drive.google.com/file/d/1NFx6wYZfl0cpK4GrtvPSEEGuowab8xPy/view?usp=sharing "登入畫面")
+![GITHUB]( https://drive.google.com/file/d/1YLvqniDXVfZ4Oc6JN8tZ_frIGgQczs3H/view?usp=sharing "系統畫面")
+
